@@ -1,0 +1,19 @@
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\bin\Debug\Island_Levy.exe.config
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\bin\Debug\Island_Levy.exe
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\bin\Debug\Island_Levy.pdb
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.csprojResolveAssemblyReference.cache
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.Form1.resources
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.Properties.Resources.resources
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.csproj.GenerateResource.Cache
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.exe
+d:\landik\документы\visual studio 2012\Projects\Island_Levy\Island_Levy\obj\Debug\Island_Levy.pdb
+C:\Users\User\Desktop\Island_Levy\Island_Levy\bin\Debug\Island_Levy.exe.config
+C:\Users\User\Desktop\Island_Levy\Island_Levy\bin\Debug\Island_Levy.exe
+C:\Users\User\Desktop\Island_Levy\Island_Levy\bin\Debug\Island_Levy.pdb
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.Form1.resources
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.Properties.Resources.resources
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.exe
+C:\Users\User\Desktop\Island_Levy\Island_Levy\obj\Debug\Island_Levy.pdb
